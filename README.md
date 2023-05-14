@@ -24,7 +24,6 @@
 
 # Summary :
 
--	There are more male employees.
 -	Students in Ethnic group E achieved the highest average scores.
 -	Students who took the test preparation course achieved the highest scores.
 -	Students who practice sport regularly scored high scores.
