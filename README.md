@@ -1,6 +1,6 @@
 # Students-Scores-Analysis-Sql-Server-PowerBI
 
-![dshboard](students Score Dashboard.png))
+![students Score Dashboard](https://github.com/Irene-arch/HR-Dashboard-MySQL-PowerBI/assets/46869451/030b1753-4933-436e-87b0-0c61da280135)
 	![يشسالاخشقي](students.png)
 
 # Data Used:
